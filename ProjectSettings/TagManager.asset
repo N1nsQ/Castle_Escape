@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - goal
+  - backwall
+  - floor
+  - CinemachineTarget
+  - ChooseDoor
+  - Pushable
+  - Pickable
+  - PointOfInterest
+  - level1a
+  - dectypt
+  - timer
+  - info
+  - music
+  - GreenBag
+  - OrangeBag
+  - PurpleBag
+  - InHand
+  - PotionBowl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - FloorLayer
+  - Pushable
+  - Pickable
+  - Interactable
+  - InHand
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
