@@ -1,8 +1,8 @@
 ﻿# Castle Escape
 
-### Walk through Video
-Katso video <a href="https://youtu.be/Qt44BrYS8bQ">Youtubesta</a>  
-Ryhmän jäsenet: Mira Hämäläinen & Aija-Riina Ojala & Nina Tulilahti
+Walk through Video in [Youtube](https://youtu.be/Qt44BrYS8bQ)  
+See detailed documentation: [Game Desing Document](https://github.com/nina20126/Castle_Escape/blob/main/CastleEscapeGameDesignDocument.pdf) (Only in Finnis language)  
+Team members: [Mir4H](https://github.com/Mir4H) & [Hansikas](https://github.com/hansikas) 
 
 ![image](https://github.com/nina20126/nina20126/assets/77397102/cc54291e-92d1-4714-a0fd-00a77bdf82c4)
 
